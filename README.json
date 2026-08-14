@@ -1,0 +1,412 @@
+{
+  "items": [
+    {
+      "description": "Official bindings:",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recipes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-14T02:11:23Z",
+                "owner": "apple",
+                "repo": "foundationdb",
+                "stars": 16603
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Ruby",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recipes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-14T02:11:23Z",
+                "owner": "apple",
+                "repo": "foundationdb",
+                "stars": 16603
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Java",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recipes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-14T02:11:23Z",
+                "owner": "apple",
+                "repo": "foundationdb",
+                "stars": 16603
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Recipes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-14T02:11:23Z",
+                "owner": "apple",
+                "repo": "foundationdb",
+                "stars": 16603
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Bindings"
+    },
+    {
+      "description": "Experimental/Proof of Concept:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hashicorp Vault",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T05:30:11Z",
+            "owner": "hashicorp",
+            "repo": "vault",
+            "stars": 36116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoundationDB's example Python layers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "simpledoc.py",
+              "description": "(missing from main repo)",
+              "children": []
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T02:11:23Z",
+            "owner": "apple",
+            "repo": "foundationdb",
+            "stars": 16603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenTick",
+          "description": "(@opentradesolutions)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-10-25T17:19:48Z",
+            "owner": "open-trade",
+            "repo": "opentick",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Query Language",
+          "description": "(@janderland)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-07T04:08:40Z",
+            "owner": "janderland",
+            "repo": "fql",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python NBD server",
+          "description": "(@dividuum)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-04-30T08:23:58Z",
+            "owner": "dividuum",
+            "repo": "fdb-nbd",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoundationDB's original SQL layer",
+          "description": "(no longer developed)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2015-03-25T18:54:58Z",
+            "owner": "jaytaylor",
+            "repo": "sql-layer",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Java NBD server",
+          "description": "(@spullara)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-05-31T20:07:34Z",
+            "owner": "spullara",
+            "repo": "nbd",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FoundationDB Block Device",
+          "description": "(@meln1k)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-12-16T15:39:57Z",
+            "owner": "meln1k",
+            "repo": "foundationdb-block-device",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Record-Store",
+          "description": "(@PierreZ)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-12-20T21:53:35Z",
+            "owner": "PierreZ",
+            "repo": "record-store",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ETCD layer",
+          "description": "(@PierreZ)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-06-27T10:58:36Z",
+            "owner": "PierreZ",
+            "repo": "fdb-etcd",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STORED document layer",
+          "description": "(@capturetechnologies)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-19T17:11:45Z",
+            "owner": "capturetechnologies",
+            "repo": "stored",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zookeeper layer",
+          "description": "(@pH14)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-03-31T21:17:48Z",
+            "owner": "pH14",
+            "repo": "fdb-zk",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nomure graph database",
+          "description": "(@OkamiIO)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2019-03-01T15:45:49Z",
+            "owner": "OkamiIO",
+            "repo": "Nomure",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Redis protocol FDB Gateway",
+          "description": "(@ryanworl)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-04-19T10:33:10Z",
+            "owner": "ryanworl",
+            "repo": "fdb-gateway",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JanusGraph adapter",
+          "description": "(@twilmes)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-04-17T21:35:29Z",
+            "owner": "twilmes",
+            "repo": "janusgraph",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Golang layer",
+          "description": "(@romannikov)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-20T20:48:10Z",
+            "owner": "romannikov",
+            "repo": "fdb-go-layer-plugin",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lucene layer",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Layers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Database benchmark that includes FDB",
+          "description": "(@pingcap)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-31T05:50:23Z",
+            "owner": "pingcap",
+            "repo": "go-ycsb",
+            "stars": 639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terraform deployment PoC",
+          "description": "(@bitgn)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2019-12-18T08:34:42Z",
+            "owner": "bitgn",
+            "repo": "fdb-cloud-test",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wavefront FDB Tailer",
+          "description": "(@wavefrontHQ)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2024-02-16T13:56:45Z",
+            "owner": "wavefrontHQ",
+            "repo": "wavefront-fdb-tailer",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus exporter",
+          "description": "(@leoluk)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-04T09:30:01Z",
+            "owner": "leoluk",
+            "repo": "fdb_exporter",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Operations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Technical"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:43:22.806Z",
+    "original_repository": "FoundationDB/awesome-foundationdb",
+    "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
+    "enhanced_repository": "enhansome/enhansome-foundationdb",
+    "enhanced_repository_description": null,
+    "title": "awesome-foundationdb with stars"
+  }
+}
