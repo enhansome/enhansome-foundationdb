@@ -16,10 +16,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T04:45:22Z",
+                "last_commit": "2026-08-16T16:33:23Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16604
+                "stars": 16606
               }
             }
           ]
@@ -37,10 +37,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T04:45:22Z",
+                "last_commit": "2026-08-16T16:33:23Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16604
+                "stars": 16606
               }
             }
           ]
@@ -58,10 +58,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T04:45:22Z",
+                "last_commit": "2026-08-16T16:33:23Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16604
+                "stars": 16606
               }
             }
           ]
@@ -79,10 +79,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-16T04:45:22Z",
+                "last_commit": "2026-08-16T16:33:23Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16604
+                "stars": 16606
               }
             }
           ]
@@ -101,10 +101,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T23:04:00Z",
+            "last_commit": "2026-08-17T00:03:14Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36123
+            "stars": 36125
           }
         },
         {
@@ -122,10 +122,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T04:45:22Z",
+            "last_commit": "2026-08-16T16:33:23Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16604
+            "stars": 16606
           }
         },
         {
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:45:42.676Z",
+    "last_updated": "2026-08-17T04:53:32.307Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
     "enhanced_repository": "enhansome/enhansome-foundationdb",
