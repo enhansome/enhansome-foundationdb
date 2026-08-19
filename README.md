@@ -4,7 +4,7 @@
 
 Important links:
 
-* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,610 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
 * [Documentation](https://apple.github.io/foundationdb/contents.html)
   * [Downloads](https://apple.github.io/foundationdb/downloads.html)
 * [Community Forum](https://forums.foundationdb.org/)
@@ -15,24 +15,24 @@ Important links:
 Official bindings:
 
 * [Python](https://apple.github.io/foundationdb/api-python.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,610 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling.html#class-scheduling-application)
 * [Ruby](https://apple.github.io/foundationdb/api-ruby.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,610 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-ruby.html)
 * [Java](https://apple.github.io/foundationdb/javadoc/index.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,610 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-java.html)
 * [Go](https://godoc.org/github.com/apple/foundationdb/bindings/go/src/fdb)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,610 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-go.html)
 * [C](https://apple.github.io/foundationdb/api-c.html)
   * No tutorial yet :(
 
 Community bindings (varying levels of production-readiness):
 
-* [Rust](https://github.com/foundationdb-rs/foundationdb-rs) ⭐ 228 | 🐛 54 | 🌐 Rust | 📅 2026-08-17 (@fdb-rs's community)
-* [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) ⭐ 159 | 🐛 15 | 🌐 C# | 📅 2026-08-17 (@Doxense)
+* [Rust](https://github.com/foundationdb-rs/foundationdb-rs) ⭐ 229 | 🐛 54 | 🌐 Rust | 📅 2026-08-17 (@fdb-rs's community)
+* [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) ⭐ 159 | 🐛 15 | 🌐 C# | 📅 2026-08-19 (@Doxense)
 * [Elixir](https://github.com/ananthakumaran/fdb) ⭐ 53 | 🐛 1 | 🌐 Elixir | 📅 2023-05-27 (@ananthakumaran)
 * [Swift](https://github.com/kirilltitov/FDBSwift) ⭐ 47 | 🐛 2 | 🌐 Swift | 📅 2022-11-03 (@kirilltitov)
 * [PHP](https://github.com/viest/PHP-FoundationDB) ⭐ 37 | 🐛 1 | 🌐 C | 📅 2020-06-23 (@viest)
@@ -54,8 +54,8 @@ Community bindings (varying levels of production-readiness):
 
 Experimental/Proof of Concept:
 
-* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,138 | 🐛 1,423 | 🌐 Go | 📅 2026-08-18
-* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,610 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
+* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,140 | 🐛 1,425 | 🌐 Go | 📅 2026-08-19
+* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,611 | 🐛 769 | 🌐 C++ | 📅 2026-08-18
   * [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 * [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 204 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
 * [Query Language](https://github.com/janderland/fql) ⭐ 154 | 🐛 15 | 🌐 Go | 📅 2026-08-17 (@janderland)
@@ -78,7 +78,7 @@ Production:
 
 * [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 * [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
-* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,145 | 🐛 160 | 🌐 C++ | 📅 2026-05-07
+* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,148 | 🐛 160 | 🌐 C++ | 📅 2026-05-07
 
 ## Operations
 

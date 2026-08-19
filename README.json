@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Official bindings:",
+      "description": "Official bindings:\nCommunity bindings (varying levels of production-readiness):",
       "items": [
         {
           "node_type": "group",
@@ -15,11 +15,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 114187903,
                 "language": "C++",
                 "last_commit": "2026-08-18T22:34:43Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16610
+                "stars": 16611
               }
             }
           ]
@@ -36,11 +37,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 114187903,
                 "language": "C++",
                 "last_commit": "2026-08-18T22:34:43Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16610
+                "stars": 16611
               }
             }
           ]
@@ -57,11 +59,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 114187903,
                 "language": "C++",
                 "last_commit": "2026-08-18T22:34:43Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16610
+                "stars": 16611
               }
             }
           ]
@@ -78,11 +81,259 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 114187903,
                 "language": "C++",
                 "last_commit": "2026-08-18T22:34:43Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16610
+                "stars": 16611
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "item",
+          "title": "Rust",
+          "description": "(@fdb-rs's community)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 436297183,
+            "language": "Rust",
+            "last_commit": "2026-08-17T16:15:25Z",
+            "owner": "foundationdb-rs",
+            "repo": "foundationdb-rs",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C#/.NET",
+          "description": "(@Doxense)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10527557,
+            "language": "C#",
+            "last_commit": "2026-08-19T08:14:55Z",
+            "owner": "SnowBankSDK",
+            "repo": "foundationdb-dotnet-client",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elixir",
+          "description": "(@ananthakumaran)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134298117,
+            "language": "Elixir",
+            "last_commit": "2023-05-27T13:48:15Z",
+            "owner": "ananthakumaran",
+            "repo": "fdb",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift",
+          "description": "(@kirilltitov)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140037231,
+            "language": "Swift",
+            "last_commit": "2022-11-03T16:27:39Z",
+            "owner": "kirilltitov",
+            "repo": "FDBSwift",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP",
+          "description": "(@viest)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131950954,
+            "language": "C",
+            "last_commit": "2020-06-23T15:12:07Z",
+            "owner": "viest",
+            "repo": "PHP-FoundationDB",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haskell",
+          "description": "(@crclark)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130640225,
+            "language": "Haskell",
+            "last_commit": "2023-11-12T18:34:16Z",
+            "owner": "crclark",
+            "repo": "foundationdb-haskell",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Erlang",
+          "description": "(@apache)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 252164142,
+            "language": "Erlang",
+            "last_commit": "2026-05-15T20:20:17Z",
+            "owner": "apache",
+            "repo": "couchdb-erlfdb",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure",
+          "description": "(@vedang)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132255860,
+            "language": "Clojure",
+            "last_commit": "2022-12-19T17:23:32Z",
+            "owner": "vedang",
+            "repo": "clj_fdb",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript",
+          "description": "(@openland)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 191848129,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T00:42:26Z",
+            "owner": "openland",
+            "repo": "foundationdb",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scala",
+          "description": "(@pwliwanow)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148061323,
+            "language": "Scala",
+            "last_commit": "2024-08-13T02:25:56Z",
+            "owner": "pwliwanow",
+            "repo": "foundationdb4s",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure",
+          "description": "(@tirkarthi)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130835045,
+            "language": "Clojure",
+            "last_commit": "2019-04-12T12:05:20Z",
+            "owner": "tirkarthi",
+            "repo": "clj-foundationdb",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure Record-Layer",
+          "description": "(@exoscale)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 365275250,
+            "language": "Clojure",
+            "last_commit": "2026-08-04T08:53:39Z",
+            "owner": "exoscale",
+            "repo": "vinyl",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clojure",
+          "description": "(@alex-dixon)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130545275,
+            "language": "Clojure",
+            "last_commit": "2018-08-04T15:48:01Z",
+            "owner": "alex-dixon",
+            "repo": "clj-foundationdb",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Julia",
+          "description": "(@tanmaykm)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131852881,
+            "language": "Julia",
+            "last_commit": "2019-01-10T03:26:44Z",
+            "owner": "tanmaykm",
+            "repo": "FoundationDB.jl",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python asyncio",
+          "description": "(@amirouche)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1160458528,
+            "language": "Python",
+            "last_commit": "2026-04-29T07:11:58Z",
+            "owner": "amirouche",
+            "repo": "asyncio-foundationdb",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "NodeJS",
+          "description": "(@josephg)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Example repo",
+              "description": "(@bbonnin)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10628612,
+                "language": "CSS",
+                "last_commit": "2013-09-06T19:45:09Z",
+                "owner": "bbonnin",
+                "repo": "foundationdb-examples",
+                "stars": 4
               }
             }
           ]
@@ -91,7 +342,7 @@
       "title": "Bindings"
     },
     {
-      "description": "Experimental/Proof of Concept:",
+      "description": "Experimental/Proof of Concept:\nProduction:",
       "items": [
         {
           "node_type": "item",
@@ -100,32 +351,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31288958,
             "language": "Go",
-            "last_commit": "2026-08-18T21:04:45Z",
+            "last_commit": "2026-08-19T08:46:35Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36138
+            "stars": 36140
           }
         },
         {
           "node_type": "item",
           "title": "FoundationDB's example Python layers",
           "description": null,
-          "children": [
-            {
-              "node_type": "item",
-              "title": "simpledoc.py",
-              "description": "(missing from main repo)",
-              "children": []
-            }
-          ],
+          "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114187903,
             "language": "C++",
             "last_commit": "2026-08-18T22:34:43Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16610
+            "stars": 16611
           }
         },
         {
@@ -135,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146185471,
             "language": "C++",
             "last_commit": "2020-10-25T17:19:48Z",
             "owner": "open-trade",
@@ -149,6 +396,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 309250154,
             "language": "Go",
             "last_commit": "2026-08-17T06:39:00Z",
             "owner": "janderland",
@@ -163,6 +411,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131432759,
             "language": "Python",
             "last_commit": "2018-04-30T08:23:58Z",
             "owner": "dividuum",
@@ -177,6 +426,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32884360,
             "language": "Java",
             "last_commit": "2015-03-25T18:54:58Z",
             "owner": "jaytaylor",
@@ -191,6 +441,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26093248,
             "language": "Java",
             "last_commit": "2024-05-31T20:07:34Z",
             "owner": "spullara",
@@ -205,6 +456,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 167712137,
             "language": "Go",
             "last_commit": "2021-12-16T15:39:57Z",
             "owner": "meln1k",
@@ -219,6 +471,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258756112,
             "language": "Java",
             "last_commit": "2020-12-20T21:53:35Z",
             "owner": "PierreZ",
@@ -233,6 +486,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248966309,
             "language": "Java",
             "last_commit": "2021-06-27T10:58:36Z",
             "owner": "PierreZ",
@@ -247,6 +501,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133202556,
             "language": "Go",
             "last_commit": "2021-07-19T17:11:45Z",
             "owner": "capturetechnologies",
@@ -261,6 +516,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171994602,
             "language": "Java",
             "last_commit": "2021-03-31T21:17:48Z",
             "owner": "pH14",
@@ -275,6 +531,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144069676,
             "language": "Elixir",
             "last_commit": "2019-03-01T15:45:49Z",
             "owner": "OkamiIO",
@@ -289,6 +546,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182247793,
             "language": "Go",
             "last_commit": "2019-04-19T10:33:10Z",
             "owner": "ryanworl",
@@ -303,6 +561,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80357613,
             "language": "Java",
             "last_commit": "2025-04-17T21:35:29Z",
             "owner": "twilmes",
@@ -317,24 +576,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 871687946,
             "language": "Go",
             "last_commit": "2026-05-20T20:48:10Z",
             "owner": "romannikov",
             "repo": "fdb-go-layer-plugin",
             "stars": 3
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Lucene layer",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Layers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -343,6 +597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119033915,
             "language": "Go",
             "last_commit": "2025-12-31T05:50:23Z",
             "owner": "pingcap",
@@ -357,6 +612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131753440,
             "language": "HCL",
             "last_commit": "2019-12-18T08:34:42Z",
             "owner": "bitgn",
@@ -371,6 +627,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 160748677,
             "language": "Java",
             "last_commit": "2024-02-16T13:56:45Z",
             "owner": "wavefrontHQ",
@@ -385,6 +642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133714226,
             "language": "Python",
             "last_commit": "2021-05-04T09:30:01Z",
             "owner": "leoluk",
@@ -394,16 +652,12 @@
         }
       ],
       "title": "Operations"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Technical"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:47:24.762Z",
+    "last_updated": "2026-08-19T12:29:06.426Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
+    "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
     "enhanced_repository": "enhansome/enhansome-foundationdb",
     "enhanced_repository_description": null,
