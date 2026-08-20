@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-18T22:34:43Z",
+                "last_commit": "2026-08-20T03:29:45Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16611
+                "stars": 16612
               }
             }
           ]
@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-18T22:34:43Z",
+                "last_commit": "2026-08-20T03:29:45Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16611
+                "stars": 16612
               }
             }
           ]
@@ -61,10 +61,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-18T22:34:43Z",
+                "last_commit": "2026-08-20T03:29:45Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16611
+                "stars": 16612
               }
             }
           ]
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-18T22:34:43Z",
+                "last_commit": "2026-08-20T03:29:45Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16611
+                "stars": 16612
               }
             }
           ]
@@ -115,7 +115,7 @@
             "archived": false,
             "id": 10527557,
             "language": "C#",
-            "last_commit": "2026-08-19T08:14:55Z",
+            "last_commit": "2026-08-19T22:25:28Z",
             "owner": "SnowBankSDK",
             "repo": "foundationdb-dotnet-client",
             "stars": 159
@@ -353,10 +353,10 @@
             "archived": false,
             "id": 31288958,
             "language": "Go",
-            "last_commit": "2026-08-19T08:46:35Z",
+            "last_commit": "2026-08-20T00:05:25Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36140
+            "stars": 36143
           }
         },
         {
@@ -368,10 +368,10 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-18T22:34:43Z",
+            "last_commit": "2026-08-20T03:29:45Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16611
+            "stars": 16612
           }
         },
         {
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:29:06.426Z",
+    "last_updated": "2026-08-20T04:47:44.066Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
