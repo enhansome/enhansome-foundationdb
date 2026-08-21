@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-20T03:29:45Z",
+                "last_commit": "2026-08-21T03:34:54Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16612
+                "stars": 16613
               }
             }
           ]
@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-20T03:29:45Z",
+                "last_commit": "2026-08-21T03:34:54Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16612
+                "stars": 16613
               }
             }
           ]
@@ -61,10 +61,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-20T03:29:45Z",
+                "last_commit": "2026-08-21T03:34:54Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16612
+                "stars": 16613
               }
             }
           ]
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-20T03:29:45Z",
+                "last_commit": "2026-08-21T03:34:54Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16612
+                "stars": 16613
               }
             }
           ]
@@ -103,7 +103,7 @@
             "last_commit": "2026-08-17T16:15:25Z",
             "owner": "foundationdb-rs",
             "repo": "foundationdb-rs",
-            "stars": 229
+            "stars": 226
           }
         },
         {
@@ -115,7 +115,7 @@
             "archived": false,
             "id": 10527557,
             "language": "C#",
-            "last_commit": "2026-08-19T22:25:28Z",
+            "last_commit": "2026-08-20T20:03:51Z",
             "owner": "SnowBankSDK",
             "repo": "foundationdb-dotnet-client",
             "stars": 159
@@ -353,10 +353,10 @@
             "archived": false,
             "id": 31288958,
             "language": "Go",
-            "last_commit": "2026-08-20T00:05:25Z",
+            "last_commit": "2026-08-21T03:19:44Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36143
+            "stars": 36149
           }
         },
         {
@@ -368,10 +368,10 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-20T03:29:45Z",
+            "last_commit": "2026-08-21T03:34:54Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16612
+            "stars": 16613
           }
         },
         {
@@ -398,7 +398,7 @@
             "archived": false,
             "id": 309250154,
             "language": "Go",
-            "last_commit": "2026-08-17T06:39:00Z",
+            "last_commit": "2026-08-21T02:40:38Z",
             "owner": "janderland",
             "repo": "fql",
             "stars": 154
@@ -461,7 +461,7 @@
             "last_commit": "2021-12-16T15:39:57Z",
             "owner": "meln1k",
             "repo": "foundationdb-block-device",
-            "stars": 44
+            "stars": 43
           }
         },
         {
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:47:44.066Z",
+    "last_updated": "2026-08-21T04:49:49.427Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
