@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16633
+                "stars": 16637
               }
             }
           ]
@@ -42,7 +42,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16633
+                "stars": 16637
               }
             }
           ]
@@ -64,7 +64,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16633
+                "stars": 16637
               }
             }
           ]
@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16633
+                "stars": 16637
               }
             }
           ]
@@ -115,7 +115,7 @@
             "archived": false,
             "id": 10527557,
             "language": "C#",
-            "last_commit": "2026-08-22T16:58:16Z",
+            "last_commit": "2026-08-23T20:09:04Z",
             "owner": "SnowBankSDK",
             "repo": "foundationdb-dotnet-client",
             "stars": 159
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-21T22:04:03Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36154
+            "stars": 36159
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-22T21:59:50Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16633
+            "stars": 16637
           }
         },
         {
@@ -398,7 +398,7 @@
             "archived": false,
             "id": 309250154,
             "language": "Go",
-            "last_commit": "2026-08-21T02:40:38Z",
+            "last_commit": "2026-08-24T02:23:53Z",
             "owner": "janderland",
             "repo": "fql",
             "stars": 154
@@ -655,7 +655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:48:10.487Z",
+    "last_updated": "2026-08-24T04:56:35.529Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
