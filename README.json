@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16637
+                "stars": 16639
               }
             }
           ]
@@ -42,7 +42,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16637
+                "stars": 16639
               }
             }
           ]
@@ -64,7 +64,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16637
+                "stars": 16639
               }
             }
           ]
@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-22T21:59:50Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16637
+                "stars": 16639
               }
             }
           ]
@@ -100,7 +100,7 @@
             "archived": false,
             "id": 436297183,
             "language": "Rust",
-            "last_commit": "2026-08-17T16:15:25Z",
+            "last_commit": "2026-08-24T12:35:50Z",
             "owner": "foundationdb-rs",
             "repo": "foundationdb-rs",
             "stars": 227
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-21T22:04:03Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36159
+            "stars": 36161
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-22T21:59:50Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16637
+            "stars": 16639
           }
         },
         {
@@ -491,7 +491,7 @@
             "last_commit": "2021-06-27T10:58:36Z",
             "owner": "PierreZ",
             "repo": "fdb-etcd",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -583,6 +583,21 @@
             "repo": "fdb-go-layer-plugin",
             "stars": 3
           }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek Fire-Flyer File System (3FS)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940018401,
+            "language": "C++",
+            "last_commit": "2026-05-07T09:31:54Z",
+            "owner": "deepseek-ai",
+            "repo": "3FS",
+            "stars": 10158
+          }
         }
       ],
       "title": "Layers"
@@ -652,10 +667,82 @@
         }
       ],
       "title": "Operations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Time Series and FoundationDB: Millions of writes/s and 10x compression in under 2,000 lines of Go",
+              "description": "(github.com/richardartoul)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189921280,
+                "language": "Go",
+                "last_commit": "2019-08-27T01:12:44Z",
+                "owner": "richardartoul",
+                "repo": "tsdb-layer",
+                "stars": 523
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blogposts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rhino: Low-latency Key-value Database in Rust (2024)",
+              "description": "(Github repo)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 875801523,
+                "language": "Rust",
+                "last_commit": "2025-01-09T18:22:05Z",
+                "owner": "laplab",
+                "repo": "rhino",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Talks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub - jzhou77/flow-examples",
+              "description": "Examples for using Flow language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160554621,
+                "language": "C++",
+                "last_commit": "2023-06-05T16:50:36Z",
+                "owner": "jzhou77",
+                "repo": "flow-examples",
+                "stars": 17
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Miscellaneous"
+        }
+      ],
+      "title": "Technical"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:56:35.529Z",
+    "last_updated": "2026-08-24T14:33:09.195Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
