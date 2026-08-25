@@ -20,7 +20,7 @@
                 "last_commit": "2026-08-25T02:48:55Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16639
+                "stars": 16640
               }
             }
           ]
@@ -42,7 +42,7 @@
                 "last_commit": "2026-08-25T02:48:55Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16639
+                "stars": 16640
               }
             }
           ]
@@ -64,7 +64,7 @@
                 "last_commit": "2026-08-25T02:48:55Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16639
+                "stars": 16640
               }
             }
           ]
@@ -86,7 +86,7 @@
                 "last_commit": "2026-08-25T02:48:55Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16639
+                "stars": 16640
               }
             }
           ]
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-24T22:09:42Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36162
+            "stars": 36164
           }
         },
         {
@@ -371,7 +371,7 @@
             "last_commit": "2026-08-25T02:48:55Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16639
+            "stars": 16640
           }
         },
         {
@@ -596,7 +596,7 @@
             "last_commit": "2026-05-07T09:31:54Z",
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10159
+            "stars": 10160
           }
         }
       ],
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:49:21.266Z",
+    "last_updated": "2026-08-25T06:23:16.024Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
