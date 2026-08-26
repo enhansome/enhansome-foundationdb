@@ -17,10 +17,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:48:55Z",
+                "last_commit": "2026-08-26T04:39:03Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16640
+                "stars": 16645
               }
             }
           ]
@@ -39,10 +39,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:48:55Z",
+                "last_commit": "2026-08-26T04:39:03Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16640
+                "stars": 16645
               }
             }
           ]
@@ -61,10 +61,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:48:55Z",
+                "last_commit": "2026-08-26T04:39:03Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16640
+                "stars": 16645
               }
             }
           ]
@@ -83,10 +83,10 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:48:55Z",
+                "last_commit": "2026-08-26T04:39:03Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16640
+                "stars": 16645
               }
             }
           ]
@@ -353,10 +353,10 @@
             "archived": false,
             "id": 31288958,
             "language": "Go",
-            "last_commit": "2026-08-24T22:09:42Z",
+            "last_commit": "2026-08-25T22:04:23Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36164
+            "stars": 36168
           }
         },
         {
@@ -368,10 +368,10 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-25T02:48:55Z",
+            "last_commit": "2026-08-26T04:39:03Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16640
+            "stars": 16645
           }
         },
         {
@@ -398,7 +398,7 @@
             "archived": false,
             "id": 309250154,
             "language": "Go",
-            "last_commit": "2026-08-24T02:23:53Z",
+            "last_commit": "2026-08-26T00:28:09Z",
             "owner": "janderland",
             "repo": "fql",
             "stars": 154
@@ -596,7 +596,7 @@
             "last_commit": "2026-05-07T09:31:54Z",
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10160
+            "stars": 10162
           }
         }
       ],
@@ -685,7 +685,7 @@
                 "last_commit": "2019-08-27T01:12:44Z",
                 "owner": "richardartoul",
                 "repo": "tsdb-layer",
-                "stars": 523
+                "stars": 522
               }
             }
           ],
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:23:16.024Z",
+    "last_updated": "2026-08-26T04:51:24.754Z",
     "original_repository": "FoundationDB/awesome-foundationdb",
     "original_repository_id": 133707552,
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",

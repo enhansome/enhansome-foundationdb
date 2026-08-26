@@ -4,7 +4,7 @@
 
 Important links:
 
-* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,640 | 🐛 770 | 🌐 C++ | 📅 2026-08-25
+* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,645 | 🐛 773 | 🌐 C++ | 📅 2026-08-26
 * [Documentation](https://apple.github.io/foundationdb/contents.html)
   * [Downloads](https://apple.github.io/foundationdb/downloads.html)
 * [Community Forum](https://forums.foundationdb.org/)
@@ -15,16 +15,16 @@ Important links:
 Official bindings:
 
 * [Python](https://apple.github.io/foundationdb/api-python.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,640 | 🐛 770 | 🌐 C++ | 📅 2026-08-25
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,645 | 🐛 773 | 🌐 C++ | 📅 2026-08-26
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling.html#class-scheduling-application)
 * [Ruby](https://apple.github.io/foundationdb/api-ruby.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,640 | 🐛 770 | 🌐 C++ | 📅 2026-08-25
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,645 | 🐛 773 | 🌐 C++ | 📅 2026-08-26
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-ruby.html)
 * [Java](https://apple.github.io/foundationdb/javadoc/index.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,640 | 🐛 770 | 🌐 C++ | 📅 2026-08-25
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,645 | 🐛 773 | 🌐 C++ | 📅 2026-08-26
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-java.html)
 * [Go](https://godoc.org/github.com/apple/foundationdb/bindings/go/src/fdb)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,640 | 🐛 770 | 🌐 C++ | 📅 2026-08-25
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,645 | 🐛 773 | 🌐 C++ | 📅 2026-08-26
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-go.html)
 * [C](https://apple.github.io/foundationdb/api-c.html)
   * No tutorial yet :(
@@ -54,11 +54,11 @@ Community bindings (varying levels of production-readiness):
 
 Experimental/Proof of Concept:
 
-* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,164 | 🐛 1,428 | 🌐 Go | 📅 2026-08-24
-* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,640 | 🐛 770 | 🌐 C++ | 📅 2026-08-25
+* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,168 | 🐛 1,430 | 🌐 Go | 📅 2026-08-25
+* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,645 | 🐛 773 | 🌐 C++ | 📅 2026-08-26
   * [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 * [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 204 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
-* [Query Language](https://github.com/janderland/fql) ⭐ 154 | 🐛 14 | 🌐 Go | 📅 2026-08-24 (@janderland)
+* [Query Language](https://github.com/janderland/fql) ⭐ 154 | 🐛 14 | 🌐 Go | 📅 2026-08-26 (@janderland)
 * [Python NBD server](https://github.com/dividuum/fdb-nbd) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2018-04-30 (@dividuum)
 * [FoundationDB's original SQL layer](https://github.com/jaytaylor/sql-layer) ⭐ 97 | 🐛 1 | 🌐 Java | 📅 2015-03-25 (no longer developed)
 * [Java NBD server](https://github.com/spullara/nbd) ⭐ 69 | 🐛 2 | 🌐 Java | 📅 2024-05-31 (@spullara)
@@ -76,7 +76,7 @@ Experimental/Proof of Concept:
 
 Production:
 
-* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,160 | 🐛 159 | 🌐 C++ | 📅 2026-05-07
+* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,162 | 🐛 159 | 🌐 C++ | 📅 2026-05-07
 * [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 * [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
 
@@ -98,7 +98,7 @@ Production:
 
 ### Blogposts
 
-* [Time Series and FoundationDB: Millions of writes/s and 10x compression in under 2,000 lines of Go](https://github.com/richardartoul/tsdb-layer/blob/master/README.md) ⭐ 523 | 🐛 2 | 🌐 Go | 📅 2019-08-27 (github.com/richardartoul)
+* [Time Series and FoundationDB: Millions of writes/s and 10x compression in under 2,000 lines of Go](https://github.com/richardartoul/tsdb-layer/blob/master/README.md) ⭐ 522 | 🐛 2 | 🌐 Go | 📅 2019-08-27 (github.com/richardartoul)
 * [FoundationDB Layers (2018)](https://abdullin.com/sku-vault/foundationdb-layers/) (abdullin.com)
 * [FoundationDB's high contention allocator](https://www.activesphere.com/blog/2018/08/05/high-contention-allocator) (activesphere.com)
 * [BUGGIFY](https://transactional.blog/simulation/buggify.html) (transactional.blog)
@@ -160,4 +160,4 @@ Production:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
