@@ -4,7 +4,7 @@
 
 Important links:
 
-* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,647 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
+* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,648 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
 * [Documentation](https://apple.github.io/foundationdb/contents.html)
   * [Downloads](https://apple.github.io/foundationdb/downloads.html)
 * [Community Forum](https://forums.foundationdb.org/)
@@ -15,16 +15,16 @@ Important links:
 Official bindings:
 
 * [Python](https://apple.github.io/foundationdb/api-python.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,647 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,648 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling.html#class-scheduling-application)
 * [Ruby](https://apple.github.io/foundationdb/api-ruby.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,647 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,648 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-ruby.html)
 * [Java](https://apple.github.io/foundationdb/javadoc/index.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,647 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,648 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-java.html)
 * [Go](https://godoc.org/github.com/apple/foundationdb/bindings/go/src/fdb)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,647 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,648 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-go.html)
 * [C](https://apple.github.io/foundationdb/api-c.html)
   * No tutorial yet :(
@@ -54,8 +54,8 @@ Community bindings (varying levels of production-readiness):
 
 Experimental/Proof of Concept:
 
-* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,178 | 🐛 1,431 | 🌐 Go | 📅 2026-08-26
-* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,647 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
+* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,179 | 🐛 1,431 | 🌐 Go | 📅 2026-08-26
+* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,648 | 🐛 772 | 🌐 C++ | 📅 2026-08-27
   * [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 * [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 204 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
 * [Query Language](https://github.com/janderland/fql) ⭐ 154 | 🐛 14 | 🌐 Go | 📅 2026-08-26 (@janderland)
@@ -76,13 +76,13 @@ Experimental/Proof of Concept:
 
 Production:
 
-* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,166 | 🐛 159 | 🌐 C++ | 📅 2026-05-07
+* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,167 | 🐛 159 | 🌐 C++ | 📅 2026-05-07
 * [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 * [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
 
 ## Operations
 
-* [Database benchmark that includes FDB](https://github.com/pingcap/go-ycsb/) ⭐ 640 | 🐛 71 | 🌐 Go | 📅 2025-12-31 (@pingcap)
+* [Database benchmark that includes FDB](https://github.com/pingcap/go-ycsb/) ⭐ 640 | 🐛 73 | 🌐 Go | 📅 2025-12-31 (@pingcap)
 * [Terraform deployment PoC](https://github.com/bitgn/fdb-cloud-test) ⭐ 27 | 🐛 0 | 🌐 HCL | 📅 2019-12-18 (@bitgn)
 * [Wavefront FDB Tailer](https://github.com/wavefrontHQ/wavefront-fdb-tailer) ⚠️ Archived (@wavefrontHQ)
 * [Prometheus exporter](https://github.com/leoluk/fdb_exporter) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2021-05-04 (@leoluk)
