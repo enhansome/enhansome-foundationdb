@@ -17,11 +17,12 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:18:40Z",
+                "last_commit": "2026-08-28T16:01:09Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16648
-              }
+                "stars": 16650
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ]
         },
@@ -39,11 +40,12 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:18:40Z",
+                "last_commit": "2026-08-28T16:01:09Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16648
-              }
+                "stars": 16650
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ]
         },
@@ -61,11 +63,12 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:18:40Z",
+                "last_commit": "2026-08-28T16:01:09Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16648
-              }
+                "stars": 16650
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ]
         },
@@ -83,11 +86,12 @@
                 "archived": false,
                 "id": 114187903,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:18:40Z",
+                "last_commit": "2026-08-28T16:01:09Z",
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16648
-              }
+                "stars": 16650
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ]
         },
@@ -103,8 +107,9 @@
             "last_commit": "2026-08-24T12:35:50Z",
             "owner": "foundationdb-rs",
             "repo": "foundationdb-rs",
-            "stars": 227
-          }
+            "stars": 228
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -115,11 +120,12 @@
             "archived": false,
             "id": 10527557,
             "language": "C#",
-            "last_commit": "2026-08-26T12:49:49Z",
+            "last_commit": "2026-08-27T23:17:35Z",
             "owner": "SnowBankSDK",
             "repo": "foundationdb-dotnet-client",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -134,7 +140,8 @@
             "owner": "ananthakumaran",
             "repo": "fdb",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -149,7 +156,8 @@
             "owner": "kirilltitov",
             "repo": "FDBSwift",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -164,7 +172,8 @@
             "owner": "viest",
             "repo": "PHP-FoundationDB",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -179,7 +188,8 @@
             "owner": "crclark",
             "repo": "foundationdb-haskell",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -194,7 +204,8 @@
             "owner": "apache",
             "repo": "couchdb-erlfdb",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -209,7 +220,8 @@
             "owner": "vedang",
             "repo": "clj_fdb",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -224,7 +236,8 @@
             "owner": "openland",
             "repo": "foundationdb",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -239,7 +252,8 @@
             "owner": "pwliwanow",
             "repo": "foundationdb4s",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -254,7 +268,8 @@
             "owner": "tirkarthi",
             "repo": "clj-foundationdb",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -269,7 +284,8 @@
             "owner": "exoscale",
             "repo": "vinyl",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -284,7 +300,8 @@
             "owner": "alex-dixon",
             "repo": "clj-foundationdb",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -299,7 +316,8 @@
             "owner": "tanmaykm",
             "repo": "FoundationDB.jl",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -314,7 +332,8 @@
             "owner": "amirouche",
             "repo": "asyncio-foundationdb",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "group",
@@ -334,7 +353,8 @@
                 "owner": "bbonnin",
                 "repo": "foundationdb-examples",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ]
         }
@@ -353,11 +373,12 @@
             "archived": false,
             "id": 31288958,
             "language": "Go",
-            "last_commit": "2026-08-26T22:58:31Z",
+            "last_commit": "2026-08-28T12:57:47Z",
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36179
-          }
+            "stars": 36181
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -368,11 +389,12 @@
             "archived": false,
             "id": 114187903,
             "language": "C++",
-            "last_commit": "2026-08-27T07:18:40Z",
+            "last_commit": "2026-08-28T16:01:09Z",
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16648
-          }
+            "stars": 16650
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -387,7 +409,8 @@
             "owner": "open-trade",
             "repo": "opentick",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -398,11 +421,12 @@
             "archived": false,
             "id": 309250154,
             "language": "Go",
-            "last_commit": "2026-08-26T06:58:33Z",
+            "last_commit": "2026-08-28T07:16:10Z",
             "owner": "janderland",
             "repo": "fql",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -417,7 +441,8 @@
             "owner": "dividuum",
             "repo": "fdb-nbd",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -432,7 +457,8 @@
             "owner": "jaytaylor",
             "repo": "sql-layer",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -447,7 +473,8 @@
             "owner": "spullara",
             "repo": "nbd",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -462,7 +489,8 @@
             "owner": "meln1k",
             "repo": "foundationdb-block-device",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -477,7 +505,8 @@
             "owner": "PierreZ",
             "repo": "record-store",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -492,7 +521,8 @@
             "owner": "PierreZ",
             "repo": "fdb-etcd",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -507,7 +537,8 @@
             "owner": "capturetechnologies",
             "repo": "stored",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -522,7 +553,8 @@
             "owner": "pH14",
             "repo": "fdb-zk",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -537,7 +569,8 @@
             "owner": "OkamiIO",
             "repo": "Nomure",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -552,7 +585,8 @@
             "owner": "ryanworl",
             "repo": "fdb-gateway",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -567,7 +601,8 @@
             "owner": "twilmes",
             "repo": "janusgraph",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -582,7 +617,8 @@
             "owner": "romannikov",
             "repo": "fdb-go-layer-plugin",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -596,8 +632,9 @@
             "last_commit": "2026-05-07T09:31:54Z",
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10167
-          }
+            "stars": 10169
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         }
       ],
       "title": "Layers"
@@ -618,7 +655,8 @@
             "owner": "pingcap",
             "repo": "go-ycsb",
             "stars": 640
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -633,7 +671,8 @@
             "owner": "bitgn",
             "repo": "fdb-cloud-test",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -648,7 +687,8 @@
             "owner": "wavefrontHQ",
             "repo": "wavefront-fdb-tailer",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         },
         {
           "node_type": "item",
@@ -663,7 +703,8 @@
             "owner": "leoluk",
             "repo": "fdb_exporter",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T16:32:52.861Z"
         }
       ],
       "title": "Operations"
@@ -686,7 +727,8 @@
                 "owner": "richardartoul",
                 "repo": "tsdb-layer",
                 "stars": 522
-              }
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ],
           "description": null,
@@ -708,7 +750,8 @@
                 "owner": "laplab",
                 "repo": "rhino",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ],
           "description": null,
@@ -730,7 +773,8 @@
                 "owner": "jzhou77",
                 "repo": "flow-examples",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T16:32:52.861Z"
             }
           ],
           "description": null,
@@ -742,7 +786,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:08:26.591Z",
+    "last_updated": "2026-08-28T16:32:52.861Z",
     "original_repository_info": {
       "archived": false,
       "id": 133707552,
@@ -750,7 +794,7 @@
       "last_commit": "2026-03-07T05:16:05Z",
       "owner": "FoundationDB",
       "repo": "awesome-foundationdb",
-      "stars": 240
+      "stars": 241
     },
     "original_repository_sha": "a3309561eef37d14d1577435847266f28e7e1053",
     "enhanced_repository": "enhansome/enhansome-foundationdb",
