@@ -21,10 +21,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T22:30:23Z",
-                "open_issues": 756,
+                "open_issues": 759,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16690,
+                "stars": 16694,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -55,10 +55,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T22:30:23Z",
-                "open_issues": 756,
+                "open_issues": 759,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16690,
+                "stars": 16694,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -89,10 +89,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T22:30:23Z",
-                "open_issues": 756,
+                "open_issues": 759,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16690,
+                "stars": 16694,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -123,10 +123,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T22:30:23Z",
-                "open_issues": 756,
+                "open_issues": 759,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16690,
+                "stars": 16694,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -172,7 +172,7 @@
           "repo_info": {
             "archived": false,
             "description": "C#/.NET Binding for FoundationDB Client API",
-            "homepage": null,
+            "homepage": "https://snowbanksdk.github.io/foundationdb-dotnet-client/",
             "id": 10527557,
             "language": "C#",
             "license": "BSD-3-Clause",
@@ -182,14 +182,20 @@
             "repo": "foundationdb-dotnet-client",
             "stars": 158,
             "topics": [
+              "agent-skills",
               "aspire",
+              "claude-code-plugin",
+              "csharp",
               "distributed-database",
               "dotnet",
-              "dotnetcore",
+              "dotnet-aspire",
               "fdb",
               "foundationdb",
+              "foundationdb-client",
               "json",
-              "key-value-store"
+              "key-value-store",
+              "nosql",
+              "nuget"
             ]
           },
           "first_seen": "2026-08-28T16:32:52.861Z"
@@ -562,11 +568,11 @@
             "id": 31288958,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-10T06:32:25Z",
-            "open_issues": 1433,
+            "last_commit": "2026-09-11T08:03:52Z",
+            "open_issues": 1434,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36221,
+            "stars": 36226,
             "topics": [
               "go",
               "secrets",
@@ -588,10 +594,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T22:30:23Z",
-            "open_issues": 756,
+            "open_issues": 759,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16690,
+            "stars": 16694,
             "topics": [
               "acid",
               "distributed-database",
@@ -938,7 +944,7 @@
             "open_issues": 161,
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10192,
+            "stars": 10195,
             "topics": [
               "distributed-file-system"
             ]
@@ -1142,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:54:25.042Z",
+    "last_updated": "2026-09-11T08:52:08.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of FoundationDB resources",
