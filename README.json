@@ -24,7 +24,7 @@
                 "open_issues": 764,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16698,
+                "stars": 16701,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -58,7 +58,7 @@
                 "open_issues": 764,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16698,
+                "stars": 16701,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -92,7 +92,7 @@
                 "open_issues": 764,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16698,
+                "stars": 16701,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -126,7 +126,7 @@
                 "open_issues": 764,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16698,
+                "stars": 16701,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -569,10 +569,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T22:02:26Z",
-            "open_issues": 1434,
+            "open_issues": 1433,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36235,
+            "stars": 36238,
             "topics": [
               "go",
               "secrets",
@@ -597,7 +597,7 @@
             "open_issues": 764,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16698,
+            "stars": 16701,
             "topics": [
               "acid",
               "distributed-database",
@@ -944,7 +944,7 @@
             "open_issues": 161,
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10196,
+            "stars": 10197,
             "topics": [
               "distributed-file-system"
             ]
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T09:27:50.265Z",
+    "last_updated": "2026-09-14T09:47:08.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of FoundationDB resources",
