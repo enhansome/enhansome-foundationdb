@@ -4,7 +4,7 @@
 
 Important links:
 
-* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,717 | 🐛 765 | 🌐 C++ | 📅 2026-09-22
+* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,718 | 🐛 763 | 🌐 C++ | 📅 2026-09-23
 * [Documentation](https://apple.github.io/foundationdb/contents.html)
   * [Downloads](https://apple.github.io/foundationdb/downloads.html)
 * [Community Forum](https://forums.foundationdb.org/)
@@ -15,16 +15,16 @@ Important links:
 Official bindings:
 
 * [Python](https://apple.github.io/foundationdb/api-python.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,717 | 🐛 765 | 🌐 C++ | 📅 2026-09-22
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,718 | 🐛 763 | 🌐 C++ | 📅 2026-09-23
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling.html#class-scheduling-application)
 * [Ruby](https://apple.github.io/foundationdb/api-ruby.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,717 | 🐛 765 | 🌐 C++ | 📅 2026-09-22
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,718 | 🐛 763 | 🌐 C++ | 📅 2026-09-23
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-ruby.html)
 * [Java](https://apple.github.io/foundationdb/javadoc/index.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,717 | 🐛 765 | 🌐 C++ | 📅 2026-09-22
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,718 | 🐛 763 | 🌐 C++ | 📅 2026-09-23
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-java.html)
 * [Go](https://godoc.org/github.com/apple/foundationdb/bindings/go/src/fdb)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,717 | 🐛 765 | 🌐 C++ | 📅 2026-09-22
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,718 | 🐛 763 | 🌐 C++ | 📅 2026-09-23
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-go.html)
 * [C](https://apple.github.io/foundationdb/api-c.html)
   * No tutorial yet :(
@@ -54,10 +54,10 @@ Community bindings (varying levels of production-readiness):
 
 Experimental/Proof of Concept:
 
-* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,284 | 🐛 1,443 | 🌐 Go | 📅 2026-09-21
-* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,717 | 🐛 765 | 🌐 C++ | 📅 2026-09-22
+* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,293 | 🐛 1,444 | 🌐 Go | 📅 2026-09-23
+* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,718 | 🐛 763 | 🌐 C++ | 📅 2026-09-23
   * [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
-* [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 204 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
+* [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 205 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
 * [Query Language](https://github.com/janderland/fql) ⭐ 154 | 🐛 14 | 🌐 Go | 📅 2026-08-30 (@janderland)
 * [Python NBD server](https://github.com/dividuum/fdb-nbd) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2018-04-30 (@dividuum)
 * [FoundationDB's original SQL layer](https://github.com/jaytaylor/sql-layer) ⭐ 97 | 🐛 1 | 🌐 Java | 📅 2015-03-25 (no longer developed)
@@ -76,7 +76,7 @@ Experimental/Proof of Concept:
 
 Production:
 
-* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,211 | 🐛 162 | 🌐 C++ | 📅 2026-05-07
+* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,217 | 🐛 162 | 🌐 C++ | 📅 2026-05-07
 * [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 * [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
 
@@ -160,4 +160,4 @@ Production:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
