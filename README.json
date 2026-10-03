@@ -11,7 +11,7 @@
             {
               "node_type": "item",
               "title": "Recipes",
-              "description": null,
+              "description": "apple/foundationdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -20,11 +20,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:47:11Z",
-                "open_issues": 782,
+                "last_commit": "2026-10-03T02:56:39Z",
+                "open_issues": 789,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16744,
+                "stars": 16743,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -45,7 +45,7 @@
             {
               "node_type": "item",
               "title": "Recipes",
-              "description": null,
+              "description": "apple/foundationdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -54,11 +54,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:47:11Z",
-                "open_issues": 782,
+                "last_commit": "2026-10-03T02:56:39Z",
+                "open_issues": 789,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16744,
+                "stars": 16743,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -79,7 +79,7 @@
             {
               "node_type": "item",
               "title": "Recipes",
-              "description": null,
+              "description": "apple/foundationdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -88,11 +88,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:47:11Z",
-                "open_issues": 782,
+                "last_commit": "2026-10-03T02:56:39Z",
+                "open_issues": 789,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16744,
+                "stars": 16743,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -113,7 +113,7 @@
             {
               "node_type": "item",
               "title": "Recipes",
-              "description": null,
+              "description": "apple/foundationdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -122,11 +122,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:47:11Z",
-                "open_issues": 782,
+                "last_commit": "2026-10-03T02:56:39Z",
+                "open_issues": 789,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16744,
+                "stars": 16743,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -152,7 +152,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T14:11:26Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "foundationdb-rs",
             "repo": "foundationdb-rs",
             "stars": 234,
@@ -559,7 +559,7 @@
         {
           "node_type": "item",
           "title": "Hashicorp Vault",
-          "description": null,
+          "description": "hashicorp/vault",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -568,11 +568,11 @@
             "id": 31288958,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T05:03:01Z",
+            "last_commit": "2026-10-02T22:02:52Z",
             "open_issues": 1448,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36331,
+            "stars": 36335,
             "topics": [
               "go",
               "secrets",
@@ -584,7 +584,7 @@
         {
           "node_type": "item",
           "title": "FoundationDB's example Python layers",
-          "description": null,
+          "description": "apple/foundationdb",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -593,11 +593,11 @@
             "id": 114187903,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:47:11Z",
-            "open_issues": 782,
+            "last_commit": "2026-10-03T02:56:39Z",
+            "open_issues": 789,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16744,
+            "stars": 16743,
             "topics": [
               "acid",
               "distributed-database",
@@ -919,7 +919,7 @@
             "id": 871687946,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T09:38:02Z",
+            "last_commit": "2026-10-02T12:42:36Z",
             "open_issues": 1,
             "owner": "romannikov",
             "repo": "fdb-go-layer-plugin",
@@ -931,7 +931,7 @@
         {
           "node_type": "item",
           "title": "DeepSeek Fire-Flyer File System (3FS)",
-          "description": null,
+          "description": "deepseek-ai/3FS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:26:56.496Z",
+    "last_updated": "2026-10-03T04:44:46.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of FoundationDB resources",
