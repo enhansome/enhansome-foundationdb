@@ -4,7 +4,7 @@
 
 Important links:
 
-* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,775 | 🐛 785 | 🌐 C++ | 📅 2026-10-13
+* [GitHub repo](https://github.com/apple/foundationdb/) ⭐ 16,777 | 🐛 781 | 🌐 C++ | 📅 2026-10-14
 * [Documentation](https://apple.github.io/foundationdb/contents.html)
   * [Downloads](https://apple.github.io/foundationdb/downloads.html)
 * [Community Forum](https://forums.foundationdb.org/)
@@ -15,16 +15,16 @@ Important links:
 Official bindings:
 
 * [Python](https://apple.github.io/foundationdb/api-python.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,775 | 🐛 785 | 🌐 C++ | 📅 2026-10-13
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/python-recipes) ⭐ 16,777 | 🐛 781 | 🌐 C++ | 📅 2026-10-14
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling.html#class-scheduling-application)
 * [Ruby](https://apple.github.io/foundationdb/api-ruby.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,775 | 🐛 785 | 🌐 C++ | 📅 2026-10-13
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/ruby-recipes) ⭐ 16,777 | 🐛 781 | 🌐 C++ | 📅 2026-10-14
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-ruby.html)
 * [Java](https://apple.github.io/foundationdb/javadoc/index.html)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,775 | 🐛 785 | 🌐 C++ | 📅 2026-10-13
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/java-recipes) ⭐ 16,777 | 🐛 781 | 🌐 C++ | 📅 2026-10-14
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-java.html)
 * [Go](https://godoc.org/github.com/apple/foundationdb/bindings/go/src/fdb)
-  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,775 | 🐛 785 | 🌐 C++ | 📅 2026-10-13
+  * [Recipes](https://github.com/apple/foundationdb/tree/master/recipes/go-recipes) ⭐ 16,777 | 🐛 781 | 🌐 C++ | 📅 2026-10-14
   * [Class Scheduling tutorial](https://apple.github.io/foundationdb/class-scheduling-go.html)
 * [C](https://apple.github.io/foundationdb/api-c.html)
   * No tutorial yet :(
@@ -32,7 +32,7 @@ Official bindings:
 Community bindings (varying levels of production-readiness):
 
 * [Rust](https://github.com/foundationdb-rs/foundationdb-rs) ⭐ 236 | 🐛 59 | 🌐 Rust | 📅 2026-10-13 (@fdb-rs's community)
-* [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) ⭐ 158 | 🐛 19 | 🌐 C# | 📅 2026-10-09 (@Doxense)
+* [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) ⭐ 158 | 🐛 16 | 🌐 C# | 📅 2026-10-14 (@Doxense)
 * [Elixir](https://github.com/ananthakumaran/fdb) ⭐ 53 | 🐛 1 | 🌐 Elixir | 📅 2023-05-27 (@ananthakumaran)
 * [Swift](https://github.com/kirilltitov/FDBSwift) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2026-10-12 (@kirilltitov)
 * [PHP](https://github.com/viest/PHP-FoundationDB) ⭐ 37 | 🐛 1 | 🌐 C | 📅 2020-06-23 (@viest)
@@ -54,12 +54,12 @@ Community bindings (varying levels of production-readiness):
 
 Experimental/Proof of Concept:
 
-* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,384 | 🐛 1,461 | 🌐 Go | 📅 2026-10-12
-* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,775 | 🐛 785 | 🌐 C++ | 📅 2026-10-13
+* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,385 | 🐛 1,461 | 🌐 Go | 📅 2026-10-14
+* [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,777 | 🐛 781 | 🌐 C++ | 📅 2026-10-14
   * [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 * [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 206 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
 * [Query Language](https://github.com/janderland/fql) ⭐ 154 | 🐛 14 | 🌐 Go | 📅 2026-08-30 (@janderland)
-* [Python NBD server](https://github.com/dividuum/fdb-nbd) ⭐ 113 | 🐛 0 | 🌐 Python | 📅 2018-04-30 (@dividuum)
+* [Python NBD server](https://github.com/dividuum/fdb-nbd) ⭐ 114 | 🐛 0 | 🌐 Python | 📅 2018-04-30 (@dividuum)
 * [FoundationDB's original SQL layer](https://github.com/jaytaylor/sql-layer) ⭐ 97 | 🐛 1 | 🌐 Java | 📅 2015-03-25 (no longer developed)
 * [Java NBD server](https://github.com/spullara/nbd) ⭐ 69 | 🐛 2 | 🌐 Java | 📅 2024-05-31 (@spullara)
 * [FoundationDB Block Device](https://github.com/meln1k/foundationdb-block-device) ⭐ 43 | 🐛 0 | 🌐 Go | 📅 2021-12-16 (@meln1k)
@@ -70,13 +70,13 @@ Experimental/Proof of Concept:
 * [Nomure graph database](https://github.com/OkamiIO/Nomure) ⭐ 11 | 🐛 5 | 🌐 Elixir | 📅 2019-03-01 (@OkamiIO)
 * [Redis protocol FDB Gateway](https://github.com/ryanworl/fdb-gateway) ⭐ 10 | 🐛 0 | 🌐 Go | 📅 2019-04-19 (@ryanworl)
 * [JanusGraph adapter](https://github.com/twilmes/janusgraph/tree/foundationdb-storage) ⭐ 7 | 🐛 0 | 🌐 Java | 📅 2025-04-17 (@twilmes)
-* [Golang layer](https://github.com/romannikov/fdb-go-layer-plugin) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-10-10 (@romannikov)
+* [Golang layer](https://github.com/romannikov/fdb-go-layer-plugin) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-10-14 (@romannikov)
 * [Simple object store](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/) (@Fabianlindfors)
 * [Lucene layer](https://github.com/AydinSakar/lucene-layer)
 
 Production:
 
-* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,281 | 🐛 163 | 🌐 C++ | 📅 2026-05-07
+* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,281 | 🐛 164 | 🌐 C++ | 📅 2026-05-07
 * [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 * [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
 
@@ -160,4 +160,4 @@ Production:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
