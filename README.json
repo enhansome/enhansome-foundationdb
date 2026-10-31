@@ -20,11 +20,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T04:56:42Z",
+                "last_commit": "2026-10-31T02:01:32Z",
                 "open_issues": 799,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16824,
+                "stars": 16827,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -54,11 +54,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T04:56:42Z",
+                "last_commit": "2026-10-31T02:01:32Z",
                 "open_issues": 799,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16824,
+                "stars": 16827,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -88,11 +88,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T04:56:42Z",
+                "last_commit": "2026-10-31T02:01:32Z",
                 "open_issues": 799,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16824,
+                "stars": 16827,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -122,11 +122,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T04:56:42Z",
+                "last_commit": "2026-10-31T02:01:32Z",
                 "open_issues": 799,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16824,
+                "stars": 16827,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -176,7 +176,7 @@
             "id": 10527557,
             "language": "C#",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T19:22:36Z",
+            "last_commit": "2026-10-30T23:28:50Z",
             "open_issues": 20,
             "owner": "SnowBankSDK",
             "repo": "foundationdb-dotnet-client",
@@ -572,7 +572,7 @@
             "open_issues": 1476,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36448,
+            "stars": 36453,
             "topics": [
               "go",
               "secrets",
@@ -593,11 +593,11 @@
             "id": 114187903,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T04:56:42Z",
+            "last_commit": "2026-10-31T02:01:32Z",
             "open_issues": 799,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16824,
+            "stars": 16827,
             "topics": [
               "acid",
               "distributed-database",
@@ -715,7 +715,7 @@
             "open_issues": 2,
             "owner": "spullara",
             "repo": "nbd",
-            "stars": 69,
+            "stars": 70,
             "topics": [
               "foundationdb",
               "java",
@@ -944,7 +944,7 @@
             "open_issues": 167,
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10400,
+            "stars": 10401,
             "topics": [
               "distributed-file-system"
             ]
@@ -973,7 +973,7 @@
             "open_issues": 74,
             "owner": "pingcap",
             "repo": "go-ycsb",
-            "stars": 642,
+            "stars": 643,
             "topics": []
           },
           "first_seen": "2026-08-28T16:32:52.861Z"
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:48:55.813Z",
+    "last_updated": "2026-10-31T10:18:41.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of FoundationDB resources",
