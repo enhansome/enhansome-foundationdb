@@ -20,11 +20,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T05:21:21Z",
-                "open_issues": 830,
+                "last_commit": "2026-11-12T09:31:55Z",
+                "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16853,
+                "stars": 16855,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -54,11 +54,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T05:21:21Z",
-                "open_issues": 830,
+                "last_commit": "2026-11-12T09:31:55Z",
+                "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16853,
+                "stars": 16855,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -88,11 +88,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T05:21:21Z",
-                "open_issues": 830,
+                "last_commit": "2026-11-12T09:31:55Z",
+                "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16853,
+                "stars": 16855,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -122,11 +122,11 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T05:21:21Z",
-                "open_issues": 830,
+                "last_commit": "2026-11-12T09:31:55Z",
+                "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
-                "stars": 16853,
+                "stars": 16855,
                 "topics": [
                   "acid",
                   "distributed-database",
@@ -568,11 +568,11 @@
             "id": 31288958,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T09:01:59Z",
-            "open_issues": 1491,
+            "last_commit": "2026-11-12T00:17:09Z",
+            "open_issues": 1493,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36497,
+            "stars": 36504,
             "topics": [
               "go",
               "secrets",
@@ -593,11 +593,11 @@
             "id": 114187903,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T05:21:21Z",
-            "open_issues": 830,
+            "last_commit": "2026-11-12T09:31:55Z",
+            "open_issues": 833,
             "owner": "apple",
             "repo": "foundationdb",
-            "stars": 16853,
+            "stars": 16855,
             "topics": [
               "acid",
               "distributed-database",
@@ -944,7 +944,7 @@
             "open_issues": 181,
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10452,
+            "stars": 10458,
             "topics": [
               "distributed-file-system"
             ]
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T11:47:58.559Z",
+    "last_updated": "2026-11-12T12:33:20.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of FoundationDB resources",
@@ -1160,7 +1160,7 @@
       "open_issues": 0,
       "owner": "FoundationDB",
       "repo": "awesome-foundationdb",
-      "stars": 242,
+      "stars": 243,
       "topics": [
         "awesome-list",
         "foundationdb"
