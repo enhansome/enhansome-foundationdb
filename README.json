@@ -20,7 +20,7 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T23:37:20Z",
+                "last_commit": "2026-11-15T05:16:08Z",
                 "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
@@ -54,7 +54,7 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T23:37:20Z",
+                "last_commit": "2026-11-15T05:16:08Z",
                 "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
@@ -88,7 +88,7 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T23:37:20Z",
+                "last_commit": "2026-11-15T05:16:08Z",
                 "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
@@ -122,7 +122,7 @@
                 "id": 114187903,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T23:37:20Z",
+                "last_commit": "2026-11-15T05:16:08Z",
                 "open_issues": 833,
                 "owner": "apple",
                 "repo": "foundationdb",
@@ -180,7 +180,7 @@
             "open_issues": 21,
             "owner": "SnowBankSDK",
             "repo": "foundationdb-dotnet-client",
-            "stars": 158,
+            "stars": 159,
             "topics": [
               "agent-skills",
               "aspire",
@@ -569,10 +569,10 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-11-13T22:02:05Z",
-            "open_issues": 1495,
+            "open_issues": 1494,
             "owner": "hashicorp",
             "repo": "vault",
-            "stars": 36511,
+            "stars": 36515,
             "topics": [
               "go",
               "secrets",
@@ -593,7 +593,7 @@
             "id": 114187903,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T23:37:20Z",
+            "last_commit": "2026-11-15T05:16:08Z",
             "open_issues": 833,
             "owner": "apple",
             "repo": "foundationdb",
@@ -944,7 +944,7 @@
             "open_issues": 182,
             "owner": "deepseek-ai",
             "repo": "3FS",
-            "stars": 10465,
+            "stars": 10468,
             "topics": [
               "distributed-file-system"
             ]
@@ -1148,7 +1148,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:23:02.131Z",
+    "last_updated": "2026-11-15T11:53:23.126Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of FoundationDB resources",
