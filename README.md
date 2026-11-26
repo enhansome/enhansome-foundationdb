@@ -31,7 +31,7 @@ Official bindings:
 
 Community bindings (varying levels of production-readiness):
 
-* [Rust](https://github.com/foundationdb-rs/foundationdb-rs) ⭐ 239 | 🐛 52 | 🌐 Rust | 📅 2026-11-25 (@fdb-rs's community)
+* [Rust](https://github.com/foundationdb-rs/foundationdb-rs) ⭐ 239 | 🐛 51 | 🌐 Rust | 📅 2026-11-26 (@fdb-rs's community)
 * [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) ⭐ 159 | 🐛 20 | 🌐 C# | 📅 2026-11-24 (@Doxense)
 * [Elixir](https://github.com/ananthakumaran/fdb) ⭐ 53 | 🐛 1 | 🌐 Elixir | 📅 2023-05-27 (@ananthakumaran)
 * [Swift](https://github.com/kirilltitov/FDBSwift) ⭐ 47 | 🐛 1 | 🌐 Swift | 📅 2026-10-12 (@kirilltitov)
@@ -54,7 +54,7 @@ Community bindings (varying levels of production-readiness):
 
 Experimental/Proof of Concept:
 
-* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,558 | 🐛 1,502 | 🌐 Go | 📅 2026-11-25
+* [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900) ⭐ 36,563 | 🐛 1,502 | 🌐 Go | 📅 2026-11-25
 * [FoundationDB's example Python layers](https://github.com/apple/foundationdb/tree/master/layers) ⭐ 16,877 | 🐛 876 | 🌐 C++ | 📅 2026-11-24
   * [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 * [OpenTick](https://github.com/opentradesolutions/opentick) ⭐ 206 | 🐛 0 | 🌐 C++ | 📅 2020-10-25 (@opentradesolutions)
@@ -76,7 +76,7 @@ Experimental/Proof of Concept:
 
 Production:
 
-* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,507 | 🐛 187 | 🌐 C++ | 📅 2026-11-17
+* [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS) ⭐ 10,512 | 🐛 188 | 🌐 C++ | 📅 2026-11-17
 * [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 * [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
 
@@ -160,4 +160,4 @@ Production:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
